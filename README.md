@@ -38,4 +38,4 @@ El proyecto está dividido en frontend y backend, consumiendo una API REST y con
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
+git clone https://github.com/marielsusej17/carlosedison.git
